@@ -1,0 +1,91 @@
+Debut de la manche 1
+
+q commence avec X
+
+w jouera avec O
+
+q joue 1
+
+w joue 1
+
+q joue 1
+
+w joue 1
+
+q joue 1
+
+w joue 1
+
+q joue 2
+
+w joue 2
+
+q joue 2
+
+w joue 2
+
+q joue 2
+
+w joue 2
+
+q joue 3
+
+w joue 3
+
+q joue 3
+
+w joue 3
+
+q joue 3
+
+w joue 3
+
+q joue 5
+
+w joue 5
+
+q joue 5
+
+w joue 5
+
+q joue 5
+
+w joue 5
+
+q joue 6
+
+w joue 6
+
+q joue 6
+
+w joue 6
+
+q joue 6
+
+w joue 6
+
+q joue 7
+
+w joue 7
+
+q joue 7
+
+w joue 7
+
+q joue 7
+
+w joue 4
+
+q joue 4
+
+w joue 4
+
+q joue 4
+
+w joue 4
+
+q joue 4
+
+w joue 7
+
+q a arrete la partie

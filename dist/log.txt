@@ -1,0 +1,33 @@
+Debut de la manche 1
+
+uriel commence avec X
+
+IA_RANDOM jouera avec O
+
+uriel joue 4
+
+IA_RANDOM joue 7
+
+uriel joue 4
+
+IA_RANDOM joue 7
+
+uriel joue 4
+
+IA_RANDOM joue 5
+
+uriel joue 4
+
+Rappel score 
+uriel (1 - 0) IA_RANDOM
+
+
+Debut de la manche 2
+
+IA_RANDOM commence avec X
+
+uriel jouera avec O
+
+IA_RANDOM joue 1
+
+uriel a arrete la partie
